@@ -8,4 +8,4 @@ alias ka='kubectl apply -f'
 alias kl='kubectl logs'
 alias kr='kubectl run'
 
-alias kubens="k config set-context --current --namespace"
+alias kubens="kubectl config set-context --current --namespace"
